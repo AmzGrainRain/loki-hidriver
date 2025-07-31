@@ -1,7 +1,8 @@
-# loki-hidriver
-Virtual mouse and keyboard driver for Windows 7 and higher.
+# vhidriver
+
+Virtual mouse and keyboard driver for Windows 11.
 
 ## Usage
-1. Disable Driver Signature Enforcement.
-2. Install the driver using `devcon.exe` or manually.
-3. Use the driver just like it is used in the [example](https://github.com/hedgar2017/loki-example).
+
+1. Install the driver via right-clicking on the `vhidriver.inf` file and selecting "Install"
+2. Use the driver just like it is used in the [example](https://github.com/hedgar2017/loki-example).
